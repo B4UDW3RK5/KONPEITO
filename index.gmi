@@ -1,0 +1,167 @@
+```
+                                                           ▄ █ ▄  ▄ █ ▄  ▄ █ ▄
+                                                           ▄▀█▀▄  ▄▀█▀▄  ▄▀█▀▄
+  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄                                            ▀      ▀      ▀
+ █   ▄▄     ▄▄   █
+ █  █  █▀▀▀█  █  █  █   ▄▀  ▄▀▀▀▀▄  █▄    █ █▀▀▀▀▀▄  ▄▀▀▀▀▄  █ ▀▀▀█▀▀▀ ▄▀▀▀▀▄
+ █   ▀▀▀▀▀▀▀▀▀   █  █ ▄█   █      █ █ ▀▄  █ █▄▄▄▄▄▀ █▄▄▄▄▄▄█ █    █   █      █
+ █ ▄▀▀▀▀▀▀▀▀▀▀▀▄ █  █▀  ▀▄ ▀▄    ▄▀ █   ▀▄█ █       ▀▄    ▄  █    █   ▀▄    ▄▀
+ ▀▄█▄█▄▄▄▄▄▄▄█▄█▄▀  ▀     ▀  ▀▀▀▀   ▀     ▀ ▀         ▀▀▀▀   ▀    ▀     ▀▀▀▀
+```
+
+
+KONPEITO is quarterly Lo-fi hip hop & chill bootleg mixtape, distributed
+exclusively through the Gemini protocol. Each tape is a half-hour mix, clean
+on side A and repeated on side B with an added ambient background noise layer
+for atmosphere. Tapes are generally released in the first week of each
+meteorological season.
+
+```
+▗▖         ***
+▝▘ Fall 2021
+```
+
+=>  gemini://konpeito.media/konpeito-08-a.mp3   Side A
+=>  gemini://konpeito.media/konpeito-08-b.mp3   Side B
+=>  gemini://konpeito.media/konpeito-08.png Cover
+=>  gemini://konpeito.media/konpeito-08.txt T-file
+=>  gemini://konpeito.media/konpeito-08.zip Zip
+
+
+```
+▗▖         ***
+▝▘ Summer 2021
+```
+
+=>	gemini://konpeito.media/konpeito-07-a.mp3	Side A
+=>	gemini://konpeito.media/konpeito-07-b.mp3	Side B
+=>	gemini://konpeito.media/konpeito-07.png	Cover
+=>	gemini://konpeito.media/konpeito-07.txt	T-file
+=>	gemini://konpeito.media/konpeito-07.zip	Zip
+
+
+```
+▗▖         ***
+▝▘ Spring 2021
+```
+
+=>	gemini://konpeito.media/konpeito-06-a.mp3	Side A
+=>	gemini://konpeito.media/konpeito-06-b.mp3	Side B
+=>	gemini://konpeito.media/konpeito-06.png	Cover
+=>	gemini://konpeito.media/konpeito-06.txt	T-file
+=>	gemini://konpeito.media/konpeito-06.zip	Zip
+
+
+```
+▗▖         ***
+▝▘ Winter 2021
+```
+
+=>	gemini://konpeito.media/konpeito-05-a.mp3	Side A
+=>	gemini://konpeito.media/konpeito-05-b.mp3	Side B
+=>	gemini://konpeito.media/konpeito-05.png	Cover
+=>	gemini://konpeito.media/konpeito-05.txt	T-file
+=>	gemini://konpeito.media/konpeito-05.zip	Zip
+
+
+```
+▗▖         ***
+▝▘ Fall 2020
+```
+
+=>	gemini://konpeito.media/konpeito-04-a.mp3	Side A
+=>	gemini://konpeito.media/konpeito-04-b.mp3	Side B
+=>	gemini://konpeito.media/konpeito-04.png	Cover
+=>	gemini://konpeito.media/konpeito-04.txt	T-file
+=>	gemini://konpeito.media/konpeito-04.zip	Zip
+
+
+```
+▗▖         ***
+▝▘ Summer 2020
+```
+
+=>	gemini://konpeito.media/konpeito-03-a.mp3	Side A
+=>	gemini://konpeito.media/konpeito-03-b.mp3	Side B
+=>	gemini://konpeito.media/konpeito-03.png	Cover
+=>	gemini://konpeito.media/konpeito-03.txt	T-file
+=>	gemini://konpeito.media/konpeito-03.zip	Zip
+
+
+```
+▗▖         ***
+▝▘ Spring 2020
+```
+
+=>	gemini://konpeito.media/konpeito-02-a.mp3	Side A
+=>	gemini://konpeito.media/konpeito-02-b.mp3	Side B
+=>	gemini://konpeito.media/konpeito-02.png	Cover
+=>	gemini://konpeito.media/konpeito-02.txt	T-file
+=>	gemini://konpeito.media/konpeito-02.zip	Zip
+
+
+```
+▗▖         ***
+▝▘ Winter 2020
+```
+
+=>	gemini://konpeito.media/konpeito-01-a.mp3	Side A
+=>	gemini://konpeito.media/konpeito-01-b.mp3	Side B
+=>	gemini://konpeito.media/konpeito-01.png	Cover
+=>	gemini://konpeito.media/konpeito-01.txt	T-file
+=>	gemini://konpeito.media/konpeito-01.zip	Zip
+
+
+OMAKE TAPES are additional tapes, added whenever finished, that don't fit
+with the main theme and don't necessarily follow the same "clean
+side/atmospheric side" format as the main KONPEITO tapes. These are really
+just a place for me to get loose and share whatever I'm vibing on.
+
+```
+▗▖       ***
+▝▘ Ok Boomer
+```
+
+=>	gemini://konpeito.media/omake-04-a.mp3	Side A
+=>	gemini://konpeito.media/omake-04-b.mp3	Side B*
+=>	gemini://konpeito.media/omake-04.png	Cover
+=>	gemini://konpeito.media/omake-04.txt	T-file
+=>	gemini://konpeito.media/omake-04.zip	Zip
+
+* Side B on this tape was encoded weird, apologies for that.
+
+
+```
+▗▖         ***
+▝▘ BLACK RADIO
+```
+
+=>	gemini://konpeito.media/omake-03-a.mp3	Side A
+=>	gemini://konpeito.media/omake-03-b.mp3	Side B
+=>	gemini://konpeito.media/omake-03.png	Cover
+=>	gemini://konpeito.media/omake-03.txt	T-file
+=>	gemini://konpeito.media/omake-03.zip	Zip
+
+
+```
+▗▖                   ***
+▝▘ 'Night Letters to X.'
+```
+
+=>	gemini://konpeito.media/omake-02-a.mp3	Side A
+=>	gemini://konpeito.media/omake-02-b.mp3	Side B
+=>	gemini://konpeito.media/omake-02.png	Cover
+=>	gemini://konpeito.media/omake-02.txt	T-file
+=>	gemini://konpeito.media/omake-02.zip	Zip
+
+
+```
+▗▖                     ***
+▝▘ TRAPPIN' IN GOPHERSPACE
+```
+
+=>	gemini://konpeito.media/omake-01-a.mp3	Side A
+=>	gemini://konpeito.media/omake-01-b.mp3	Side B
+=>	gemini://konpeito.media/omake-01.png	Cover
+=>	gemini://konpeito.media/omake-01.txt	T-file
+=>	gemini://konpeito.media/omake-01.zip	Zip

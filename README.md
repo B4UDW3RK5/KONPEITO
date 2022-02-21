@@ -1,2 +1,12 @@
-# KONPEITO
-Quarterly Lo-Fi mixtapes for the Gemini protocol - gemini://konpeito.media
+```
+                                                         ▄ █ ▄  ▄ █ ▄  ▄ █ ▄
+                                                         ▄▀█▀▄  ▄▀█▀▄  ▄▀█▀▄
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄                                            ▀      ▀      ▀
+█   ▄▄     ▄▄   █
+█  █  █▀▀▀█  █  █  █   ▄▀  ▄▀▀▀▀▄  █▄    █ █▀▀▀▀▀▄  ▄▀▀▀▀▄  █ ▀▀▀█▀▀▀ ▄▀▀▀▀▄
+█   ▀▀▀▀▀▀▀▀▀   █  █ ▄█   █      █ █ ▀▄  █ █▄▄▄▄▄▀ █▄▄▄▄▄▄█ █    █   █      █
+█ ▄▀▀▀▀▀▀▀▀▀▀▀▄ █  █▀  ▀▄ ▀▄    ▄▀ █   ▀▄█ █       ▀▄    ▄  █    █   ▀▄    ▄▀
+▀▄█▄█▄▄▄▄▄▄▄█▄█▄▀  ▀     ▀  ▀▀▀▀   ▀     ▀ ▀         ▀▀▀▀   ▀    ▀     ▀▀▀▀
+
+Quarterly Lo-Fi mixtapes for the Gemini protocol    gemini://konpeito.media
+```
